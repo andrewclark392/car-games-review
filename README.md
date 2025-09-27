@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="btir9wbK9tejX2nARka4yvrDYRUmQTvBG_XLq9x_IcI" />
 # 🚗 Best Car Games of 2025 – Mobile Driving & Parking Simulators
 
 Welcome to this repository featuring the most exciting, high-rated car games of 2025. This list includes simulation-based driving games, arcade racers, drift experiences, and off-road challenges.
