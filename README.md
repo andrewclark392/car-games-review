@@ -41,4 +41,5 @@ For a detailed breakdown, full reviews, download links, and gameplay images, vis
 ## 💬 About
 
 This repo was created to highlight top driving games for mobile users and help gamers discover realistic simulators and racing games for 2025. If you're a fan of driving physics, car mods, or online multiplayer, check out the full article.
+<meta name="google-site-verification" content="btir9wbK9tejX2nARka4yvrDYRUmQTvBG_XLq9x_IcI" />
 
